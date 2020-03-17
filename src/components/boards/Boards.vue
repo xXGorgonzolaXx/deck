@@ -77,7 +77,7 @@ export default {
 
 		.board-list-row {
 			align-items: center;
-			border-bottom: 1px solid #ededed;
+			border-bottom: 1px solid #e4e4e4;
 			display: flex;
 		}
 
